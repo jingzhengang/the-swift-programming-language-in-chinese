@@ -38,13 +38,13 @@ Swift 中类和结构体有很多共同点。共同处在于：
 * 通过扩展以增加默认实现的功能
 * 实现协议以提供某种标准功能
 
-更多信息请参见[属性](./10_Properties.html)，[方法](./11_Methods.html)，[下标脚本](./12_Subscripts.html)，[构造过程](./14_Initialization.html)，[扩展](./21_Extensions.html)，和[协议](./22_Protocols.html)。
+更多信息请参见[属性](./10_Properties.html)，[方法](./11_Methods.html)，[下标](./12_Subscripts.html)，[构造过程](./14_Initialization.html)，[扩展](./21_Extensions.html)，和[协议](./22_Protocols.html)。
 
 与结构体相比，类还有如下的附加功能：
 
 * 继承允许一个类继承另一个类的特征
 * 类型转换允许在运行时检查和解释一个类实例的类型
-* 解构器允许一个类实例释放任何其所被分配的资源
+* 析构器允许一个类实例释放任何其所被分配的资源
 * 引用计数允许对一个类的多次引用
 
 更多信息请参见[继承](./13_Inheritance.html)，[类型转换](./19_Type_Casting.html)，[析构过程](./15_Deinitialization.html)，和[自动引用计数](./16_Automatic_Reference_Counting.html)。
